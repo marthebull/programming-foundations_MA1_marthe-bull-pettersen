@@ -4,11 +4,12 @@ console.log("Hello");
 
 // Question 1
 
-var apples = 8;
+var likesFruit = true;
 
-var likeApples = true;
+var favoriteFruit = "Apple";
 
-var fruit = "Apples";
+var howMany = 8;
+
 
 
 
