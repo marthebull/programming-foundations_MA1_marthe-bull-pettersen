@@ -1,1 +1,1 @@
-# programming-foundations_MA1_marthe-bull-pettersen
+# marthe-bull-pettersen_pf_ma1
