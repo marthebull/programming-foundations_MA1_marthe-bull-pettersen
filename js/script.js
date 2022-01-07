@@ -62,3 +62,5 @@ else {
 for (var i = 7; i <= 13; i++) {
     console.log ("The number is :" + i)
 }
+
+// Console: The number is :7, The number is :8, The number is :9, The number is :10, The number is :11, The number is :12, The number is :13
