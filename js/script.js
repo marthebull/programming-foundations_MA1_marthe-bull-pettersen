@@ -4,11 +4,11 @@ console.log("Hello");
 
 // Question 1
 
-var age = 25;
+var apples = 8;
 
-var tryingToLearn = true;
+var likeApples = true;
 
-var text = "And my name is ";
+var fruit = "Apples";
 
 
 
